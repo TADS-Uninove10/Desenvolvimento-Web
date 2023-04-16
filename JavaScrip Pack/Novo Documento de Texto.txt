@@ -1,0 +1,13 @@
+12km/l   tanque 60l   x=60.12= 720km  20%  => 576=km com tanque
+
+
+1)você deve fazer um programa que ,dado o consumo medio um carro ea capacidade do tanque, calcule quantos km pode-se rodar,
+com uma margem de erro de -20%.
+depos disso ,o usuario informará uma distancia que deseje pecorer calcule a ida e a volta (x2)e dizer quantos tanques serão
+ necessarios .
+
+ex
+consumo; 10kml 
+tanque:80l 
+10 X 80 = 800klm - 20% = 640 com tanque quero percorrer 600klm 
+preciso de 2 tanque , 1200 klm  pois 1200 / 640 1,8

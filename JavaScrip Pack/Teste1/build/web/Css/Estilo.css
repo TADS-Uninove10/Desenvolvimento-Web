@@ -1,0 +1,18 @@
+/* 
+    Document   : Estilo
+    Created on : 17/10/2014, 04:32:29
+    Author     : clecio
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+    color: green;
+    font-size: 22px;
+}
+span {
+    font-size:48px;
+    background-color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
